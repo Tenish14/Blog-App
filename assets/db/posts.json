@@ -1,0 +1,19 @@
+[
+
+    {
+        "title": "sddf",
+        "description": "Tasty Bun",
+        "image": "..\/assets\/img\/posts\/Screenshot (198).png",
+        "author": "tenish456",
+        "author_image": "..\/assets\/img\/user\/Screenshot (204).png",
+        "dataPosted": "2020-09-07 12:02:41pm"
+    },
+    {
+        "title": "Nothing",
+        "description": "Just for Fun!",
+        "image": "..\/assets\/img\/posts\/WjGTnKGQ_400x400.png",
+        "author": "Tenish123",
+        "author_image": "..\/assets\/img\/user\/fwrd Schl Logo.png",
+        "dataPosted": "2020-09-07 12:21:13pm"
+    }
+]

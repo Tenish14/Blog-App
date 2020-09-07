@@ -1,0 +1,33 @@
+PROJECT SPEIFICATIONS
+R16 Blog
+Post
+	-Title
+	-Description
+	-Image
+	-Author
+	-datePosted
+
+User 
+	-Firstname	
+	-Lastname	
+	-Username	
+	-Password	
+	-Image
+
+Comments
+	-Body
+	-Username
+	-postId	
+
+Authorization - Validate & Password match
+Authentication - The user who owns the post can only edit/ delete tht post
+
+The user should be able to:
+-Add post
+-Edit post 
+-Delete Story
+-View all posts
+-View all posts that are the user created.
+
+Stress goals:
+- Filter out post that contains bad words...
